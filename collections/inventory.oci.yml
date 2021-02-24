@@ -1,4 +1,4 @@
-plugin: oracle.oci
+plugin: oci
 #regions: all
 #fetch_db_hosts: true
 hostname_format: fqdn
