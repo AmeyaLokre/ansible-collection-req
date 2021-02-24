@@ -1,0 +1,4 @@
+---
+collections:
+   - name: oracle.oci
+     version: 2.15.1
