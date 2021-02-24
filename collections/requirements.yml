@@ -1,4 +1,4 @@
 ---
 collections:
-   - name: oracle.oci
-     version: 2.15.1
+   - name: https://github.com/AmeyaLokre/oci-ansible-collection.git
+     type: git
