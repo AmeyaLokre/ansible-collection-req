@@ -1,2 +1,3 @@
+---
 collections:
-  - name: 'oracle.oci'
+  - name: oracle-oci-2.15.1.tar.gz
