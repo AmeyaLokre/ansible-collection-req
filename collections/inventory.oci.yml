@@ -1,4 +1,4 @@
 plugin: oracle.oci.oci
 #regions: all
 #fetch_db_hosts: true
-hostname_format: fqdn
+hostname_format: public_ip
